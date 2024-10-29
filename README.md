@@ -1,1 +1,1 @@
-# neural_meltingpot
+# cancer_mortality_neural_network
